@@ -1,4 +1,4 @@
-# Stoploss_calculator
+# Trade Risk Management (Options Buying)
 
 ## How To Run The Web Application:
 #### Open Terminal In Your IDE.
