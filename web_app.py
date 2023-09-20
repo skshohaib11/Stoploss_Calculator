@@ -2,7 +2,7 @@ import streamlit as st
 from calculator import Trade_checkpoints
 
 # Create a Streamlit app
-st.title("Option Buying Calculator.")
+st.title("Option Buying Risk Management Calculator.")
 st.header("Let's Be Mentally Prepared for Your Potential Loss!!!")
 github_link = "[GitHub Repository](https://github.com/skshohaib11/Stoploss_calculator)"
 LinkedIn_link = "[LinkedIn](https://www.linkedin.com/in/shaikh-mohammed-shohaib-043317251/)"
